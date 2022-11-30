@@ -7,6 +7,10 @@ Recent state of the art models have advanced the Natural Language Processingfiel
 
 
 Find the Data here : https://drive.google.com/drive/folders/1b5pfbwANwzcZuq7CrM5jL-jBi1gkhwXw?usp=share_link
+
+TELUGU SQuAD CORRECTION GUIDELINES link: https://docs.google.com/document/d/1dwSe8voWvZ023VXmNP6apDyPQmKoYPP90JWpDelNO7M/edit?usp=sharing
+QA EVALUATION GUIDELINES link: https://docs.google.com/document/d/1i8WLxWK5zEu4Wm9FlcGc1CHfNRKnf2INODEE8BJ5Ohc/edit?usp=sharing
+
  
 
 
