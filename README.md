@@ -7,9 +7,7 @@ Recent state of the art models have advanced the Natural Language Processingfiel
 
 
 Find the Data here : https://drive.google.com/drive/folders/1b5pfbwANwzcZuq7CrM5jL-jBi1gkhwXw?usp=share_link
-
-
-
+ 
 
 
 ![SE architecture](https://user-images.githubusercontent.com/36505756/137472504-8d7186ff-8034-4100-bb1c-13e19b6643ac.png)
